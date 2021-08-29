@@ -1,0 +1,11 @@
+[package]
+name = "q12-godot-helpers"
+version = "0.1.0"
+authors = ["Akshay Nair <phenax5@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gdnative = "0.9"
+euclid = "0.22"
+paste = "1.0"
+

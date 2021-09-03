@@ -1,2 +1,2 @@
-# godot-testicles
-A test framework for godot-rust (WIP)
+# godot-helpers
+Helper utils for godot-rust projects
